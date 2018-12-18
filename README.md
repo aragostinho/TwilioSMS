@@ -11,8 +11,7 @@ This program uses Twilio REST API 5.24.0 available on https://www.nuget.org/pack
 In TwilioSMS.Service project there are the following objects:
 
 - Message: The message containing the properties MessageText, PhoneNumber*, MessageType and SenderId. 
-- MessageContract: DesignContract to verify well filled properties 
-- MessageType: Promotional or Transaction SMS
+- MessageContract: DesignContract to verify well filled properties  
 - TwilioService: The class responsible for send SMS
 - ServiceResponse: The class responsible for obtain result after sending.
 
