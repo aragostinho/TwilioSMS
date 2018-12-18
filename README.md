@@ -23,6 +23,6 @@ In TwilioSMS.Utils project, open TwilioCredentials.cs and define the variables:
 
         public static string AccountSid = "";
         public static string AuthToken = "";
-        public static string SenderPhoneNumber = ""; //A Twilio phone number buyed on Twilio Dashboard
+        public static string SenderPhoneNumber = ""; //A Twilio phone number contracted on Twilio Dashboard
 
 
