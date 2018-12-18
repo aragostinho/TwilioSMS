@@ -1,6 +1,9 @@
 # TwilioSMS
 .Core project to send SMS using Twilio 
 
+# Twilio Account 
+Before of all you need to create an account (free trial) on https://www.twilio.com.  After that, it's necessary to create a Programmable SMS Project.  See first steps on https://www.twilio.com/docs/usage/tutorials/how-to-use-your-free-trial-account.
+
 # Twilio REST API
 This program uses Twilio REST API 5.24.0 available on https://www.nuget.org/packages/Twilio/
 
